@@ -1,9 +1,8 @@
 package org.example;
 
-public class GestionYoussef
+public class GestionYoussef {
 
     String nombreDuenio;
 
     String telefonoContacto;
-
 }
